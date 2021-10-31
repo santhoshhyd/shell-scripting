@@ -20,6 +20,6 @@ echo Good Morning, Welcome, today date $date
 add=$((3+2+5+7-1-10+2))
 echo sum=$add
 
-echo course name=$COURSE-NAME
+echo course name=$COURSE_NAME
 
 
