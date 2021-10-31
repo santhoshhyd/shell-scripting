@@ -1,7 +1,7 @@
-read -p 'enter your name: ' Name
-read -p 'enter your age: ' Age
+read -p 'enter your name: ' name
+read -p 'enter your age: ' age
 
-echo -e "your name = $name\nyour age = $age"
+echo -e "your name=$name\nyour age=$age"
 
 
 
