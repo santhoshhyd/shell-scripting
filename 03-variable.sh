@@ -17,6 +17,6 @@ echo Good Morning, Welcome, today date $date
 date=$(date +%F)
 echo Good Morning, Welcome, today date $date
 
-add=$((3+2+5+7-1-10+2))
+add=$(3+2+5+7-1-10+2)
 echo sum=$add
 
