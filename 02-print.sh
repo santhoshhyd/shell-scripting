@@ -11,3 +11,6 @@ echo -e "\e[32mhello world"
 echo -e "\e[35mhello world"
 echo -e "hai to all"
 
+echo -e "\e[0mwonderful day"
+
+
